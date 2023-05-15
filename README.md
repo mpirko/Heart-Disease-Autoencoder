@@ -7,7 +7,7 @@ The code reads the dataset using Pandas and preprocesses it. Then, it splits the
 The implications of using autoencoders are vast. This technique can be used to detect anomalies and outliers in datasets, compress images, and generate new images. In the medical field, autoencoders can be used for disease diagnosis and treatment. However, as with any machine learning model, the data quality and the model's tuning are critical factors in the model's performance.
 Getting Started
 
-###To get started with this project, you will need to install the following libraries:
+### To get started with this project, you will need to install the following libraries:
 
 keras-tuner
 pandas
@@ -16,7 +16,7 @@ sklearn
 matplotlib
 tensorflow
 
-###The code generates 5 different models:
+### The code generates 5 different models:
 
 NoHyperparameter.h5
 Hyperparameter.h5
